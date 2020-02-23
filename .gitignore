@@ -1,0 +1,10 @@
+.vscode
+.idea
+node_modules
+tmp
+temp
+.tmp
+.temp
+_tmp
+_temp
+*.log

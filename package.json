@@ -1,0 +1,26 @@
+{
+  "name": "opensource-russian-chatbot-database",
+  "version": "0.0.1",
+  "description": "# Категории слов:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenSourceRussianChatBot/OpenSourceRussianChatBot.Database.git"
+  },
+  "author": "Vovencia <vovencia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenSourceRussianChatBot/OpenSourceRussianChatBot.Database/issues"
+  },
+  "homepage": "https://github.com/OpenSourceRussianChatBot/OpenSourceRussianChatBot.Database#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.2",
+    "@types/node": "^13.7.4",
+    "express": "^4.17.1",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.2"
+  }
+}
